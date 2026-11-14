@@ -7,7 +7,7 @@ with a measured privacy/utility curve, sub-millisecond ONNX and Core ML inferenc
 Structured Streaming scoring path, and drift monitoring. Every number below is from a real run and
 lives in `results/`.**
 
-By **Simran Kharbanda**
+
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-LightGBM-orange)
@@ -366,4 +366,4 @@ results/         every number in this README; figures/ for the charts; artifacts
 
 ## Author
 
-**Simran Kharbanda**
+**Ishita**
